@@ -1,0 +1,109 @@
+{
+    "users" :[
+        {
+            "id": 1,
+            "name": "sdsEdward King 1",
+            "email": "sdayush1@gmail.com",
+            "phone": "+ 123456891",
+            "status": false
+          },
+          {
+            "id": 2,
+            "name": "dcEdward King 2",
+            "email": "hhayush2@gmail.com",
+            "phone": "+ 123456891",
+            "status": true
+          },
+          {
+            "id": 3,
+            "name": "eereEdward King 3",
+            "email": "uuayush3@gmail.com",
+            "phone": "+ 123456891",
+            "status": true
+          },
+          {
+            "id": 4,
+            "name": "qqEdward King 4",
+            "email": "wwayush4@gmail.com",
+            "phone": "+ 123456891",
+            "status": false
+          },
+          {
+            "id": 5,
+            "name": "Edward King 5",
+            "email": "ayush5@gmail.com",
+            "phone": "+ 123456891",
+            "status": true
+          },
+          {
+            "id": 5,
+            "name": "Edward King 5",
+            "email": "ayush5@gmail.com",
+            "phone": "+ 123456891",
+            "status": true
+          },
+          {
+            "id": 5,
+            "name": "Edward King 5",
+            "email": "ayush5@gmail.com",
+            "phone": "+ 123456891",
+            "status": true
+          },
+          {
+            "id": 5,
+            "name": "Edward King 5",
+            "email": "ayush5@gmail.com",
+            "phone": "+ 123456891",
+            "status": true
+          },
+          {
+            "id": 5,
+            "name": "Edward King 5",
+            "email": "ayush5@gmail.com",
+            "phone": "+ 123456891",
+            "status": true
+          },
+          {
+            "id": 5,
+            "name": "Edward King 5",
+            "email": "ayush5@gmail.com",
+            "phone": "+ 123456891",
+            "status": true
+          },
+          {
+            "id": 5,
+            "name": "Edward King 5",
+            "email": "ayush5@gmail.com",
+            "phone": "+ 123456891",
+            "status": true
+          },
+          {
+            "id": 5,
+            "name": "Edward King 5",
+            "email": "ayush5@gmail.com",
+            "phone": "+ 123456891",
+            "status": true
+          },
+          {
+            "id": 5,
+            "name": "Edward King 5",
+            "email": "ayush5@gmail.com",
+            "phone": "+ 123456891",
+            "status": true
+          },
+          {
+            "id": 5,
+            "name": "Edward King 5",
+            "email": "ayush5@gmail.com",
+            "phone": "+ 123456891",
+            "status": true
+          },
+          {
+            "id": 5,
+            "name": "Edward King 5",
+            "email": "ayush5@gmail.com",
+            "phone": "+ 123456891",
+            "status": true
+          }
+    ]
+}
